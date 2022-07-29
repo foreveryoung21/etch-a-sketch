@@ -1,5 +1,11 @@
 .container{
+    margin: auto;
+    width: 50%;
 
+}
+
+.container h1{
+    text-align: center;
 }
 
 
@@ -10,9 +16,13 @@
 
 .board{
     display: grid;
-    width: 800px;
-    height:800px;
+    margin: auto;
+    width: 80%;
+    height:60%;
     background-color: grey;
 }
 
 
+.box1{
+    background-color: aqua;
+}
