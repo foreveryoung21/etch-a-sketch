@@ -10,7 +10,9 @@
 
 
 .input-container{
+    display: flex;
     margin-top: 10px;
+    justify-content: center;
 }
 
 
@@ -23,6 +25,10 @@
 }
 
 
-.box1{
+.box{
     background-color: aqua;
+}
+
+.board-color{
+    background-color: black;
 }
